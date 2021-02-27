@@ -32,6 +32,10 @@ src
 ├── Routes
 ├── Context
 ├── Hooks
+│── assets
+│    ├── images/
+│    └── audio/
+│
 ├── Layout
 │   │
 │   ├── Header
