@@ -13,6 +13,8 @@ en el css quiero usar sus nuevas caracteristicas ya que solo conozco de bootstra
 - flexbox 
 - styled component
 
+# redux 
+deberia usarlo para conocer mejor desde el inicio y no como integracion con la plantilla basica de react+redux
 # organizar styled component
 https://stackoverflow.com/questions/42987939/styled-components-organization
 
